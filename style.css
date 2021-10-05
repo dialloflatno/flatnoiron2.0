@@ -1,0 +1,120 @@
+body{
+    
+    background-color: blueviolet;
+}
+h1 {
+ 
+    text-align: center;
+    font-family:monospace;
+    letter-spacing: 2px;
+    padding-top: initial;
+    padding-top: 20px;
+    color: #fff;    
+    font-size: 60px;
+    background-color: yellowgreen;
+}
+h2{
+
+    background-color: yellowgreen;
+    text-align: center;
+    font-family:monospace;
+    color: lightgray;
+
+}
+.navBar{
+
+    background-color: yellowgreen;
+     color: #000;
+    word-spacing: 10px;
+    letter-spacing: 3px;
+    text-align: center;
+    font-weight: bold;
+    text-transform: capitalize;
+    font-size: 20px;
+}
+.navBar a {
+text-align: center;
+font-family: monospace;
+
+}
+.navBar a:hover{
+    background-color: #ddd;
+    color: black;
+  }
+  
+  .navBar a.active {
+    background-color: #04AA6D;
+    color: white;
+  }
+
+ h3 {
+      font-family: monospace;
+      text-align: left;
+      padding-top: 50px;
+      padding-right: 50px;
+      font-size: 30px;
+
+  }
+
+#phonecycle {
+height: 50%;
+width: 100%;
+text-align: center;
+border-radius: 20px;
+
+
+  }
+  #eigth {
+
+    height: 50%;
+    width: 100%;
+    text-align: center;
+    border-radius: 50px;
+    background-color: navy;
+
+  }
+
+  #eigthTitle {
+font-family: monospace;
+    text-align:center;
+    font-weight: bold;
+  }
+
+  #eigthTitleIndex {
+      word-wrap: break-word;
+      font-size: larger;
+    font-family: monospace;
+        text-align:center;
+        font-weight: bold;
+        color: papayawhip;
+      }
+  p {
+    word-wrap: break-word;
+  }
+
+  #major{
+      text-align: left;
+      font: bold;
+      font-family: monospace;
+  }
+  .majorp {
+      text-align: left;
+      font-family: monospace;
+      font-weight: bold;
+  }
+  #flaPhone {
+
+      text-align: center;
+      font-family: monospace;
+      font-weight: bold;
+      text-transform: uppercase;
+      font-size: medium;
+  }
+
+  footer{
+      padding-bottom: 40px;
+      padding-top: 40px;
+      text-align: center;
+      color: mintcream;
+      background-color: midnightblue;
+  }
